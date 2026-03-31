@@ -12,7 +12,6 @@ Bu uygulama bir ödev/laboratuvar projesi olarak geliştirilmiştir. Temel amac�
 > Uygulama arayüzünden bir görünüm:
 
 ![Uygulama Arayüzü](ekran_goruntusu.png)
-*(Not: Öğretim görevlisinin incelemesi için uygulamanın çalışan halini gösteren temsili ekran görüntüsü hedeflenmiştir.)*
 
 ## 🚀 Özellikler
 - **Çift İstemci Desteği (Dual Client):** Aynı ekran üzerinde iki farklı istemci penceresi (Kullanıcı 1 ve Kullanıcı 2).
@@ -54,4 +53,3 @@ http://127.0.0.1:5000
 - **Tasarım Deseni:** Çift istemci simülasyonu için tek ekranda izole edilmiş DOM yapıları
 
 ---
-**Geliştirici:** İlhan Demirel & Soket Mimari Ekibi
